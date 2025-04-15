@@ -1,0 +1,39 @@
+# Entorno virtual
+entorno/
+entorno/
+entorno/
+.entorno/
+.entorno/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración o entorno
+.entorno
+*.entorno
+
+# Archivos de log
+*.log
+
+# Archivos de base de datos
+*.sqlite3
+instance/
+
+# Archivos de migración (si usas Flask-Migrate/Alembic)
+migrations/
+
+# Cache de pip y build
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Config de editores
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
