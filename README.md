@@ -3,3 +3,6 @@
 #Framework Flask
 #Railway --servidor 
 
+La rama  master contiene un requeriment.txt  usa este para instalar las dependecias del proyecto ;usa entono virtual para instalar estas dependencias.
+
+
